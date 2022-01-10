@@ -13,6 +13,8 @@
 | [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c) | Solved |
 | [Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e) | Solved |
 | [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) | Solved |
+| [Sort - one, three, two](https://www.codewars.com/kata/56f4ff45af5b1f8cd100067d) | Unsolved |
+| [Mod4 Regex](https://www.codewars.com/kata/54746b7ab2bc2868a0000acf) | Unsolved |
 
 ### 6 kyu
 | Kata	| Status |
