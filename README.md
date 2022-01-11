@@ -3,6 +3,7 @@
 
 [My codewars.com profile.](https://www.codewars.com/users/ReallyWarm)
 
+![](https://img.shields.io/github/last-commit/ReallyWarm/codewars-status)
 ## Shortcuts
 - [My Codewars Status](#my-codewars-status)
   - [Shortcuts](#shortcuts)
@@ -25,6 +26,8 @@
 | 7. [Sort - one, three, two](https://www.codewars.com/kata/56f4ff45af5b1f8cd100067d) | Unsolved |
 | 8. [Mod4 Regex](https://www.codewars.com/kata/54746b7ab2bc2868a0000acf) | Unsolved |
 
+[![](https://img.shields.io/badge/Back%20to%20top-%E2%86%A9-red)](#shortcuts)
+
 ### 6 kyu (Novice)
 | Kata	| Status |
 |---------|---------|
@@ -45,6 +48,8 @@
 | 15. [Take a Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228) | Solved |
 | 16. [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) | Solved |
 
+[![](https://img.shields.io/badge/Back%20to%20top-%E2%86%A9-red)](#shortcuts)
+
 ### 7 kyu (Beginner)
 | Kata	| Status |
 |---------|---------|
@@ -59,9 +64,13 @@
 | 9. [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | Solved |
 | 10. [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6) | Solved |
 
+[![](https://img.shields.io/badge/Back%20to%20top-%E2%86%A9-red)](#shortcuts)
+
 ### 8 kyu (Beginner)
 | Kata	| Status |
 |---------|---------|
 | 1. [Convert boolean values to strings 'Yes' or 'No'.](https://www.codewars.com/kata/53369039d7ab3ac506000467) | Solved |
 | 2. [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | Solved |
 | 3. [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | Solved |
+
+[![](https://img.shields.io/badge/Back%20to%20top-%E2%86%A9-red)](#shortcuts)
