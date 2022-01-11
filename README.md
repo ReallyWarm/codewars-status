@@ -3,6 +3,14 @@
 
 [My codewars.com profile.](https://www.codewars.com/users/ReallyWarm)
 
+## Shortcuts
+- [My Codewars Status](#my-codewars-status)
+  - [Shortcuts](#shortcuts)
+    - [5 kyu](#5-kyu-novice)
+    - [6 kyu](#6-kyu-novice)
+    - [7 kyu](#7-kyu-beginner)
+    - [8 kyu](#8-kyu-beginner)
+
 ## Python
 ### 5 kyu (Novice)
 | Kata	| Status |
@@ -36,7 +44,7 @@
 | 15. [Take a Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228) | Solved |
 | 16. [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) | Solved |
 
-### 7 kyu (Beginner)
+### 7 kyu Beginner
 | Kata	| Status |
 |---------|---------|
 | 1. [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053) | Solved |
@@ -50,7 +58,7 @@
 | 9. [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | Solved |
 | 10. [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6) | Solved |
 
-### 8 kyu (Beginner)
+### 8 kyu Beginner
 | Kata	| Status |
 |---------|---------|
 | 1. [Convert boolean values to strings 'Yes' or 'No'.](https://www.codewars.com/kata/53369039d7ab3ac506000467) | Solved |
