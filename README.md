@@ -62,7 +62,8 @@
 | 7. [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039) | Solved |
 | 8. [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) | Solved |
 | 9. [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | Solved |
-| 10. [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6) | Solved |
+| 10. [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | Solved |
+| 11. [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6) | Solved |
 
 [![](https://img.shields.io/badge/Back%20to%20top-%E2%86%A9-red)](#shortcuts)
 
@@ -70,7 +71,6 @@
 | Kata	| Status |
 |---------|---------|
 | 1. [Convert boolean values to strings 'Yes' or 'No'.](https://www.codewars.com/kata/53369039d7ab3ac506000467) | Solved |
-| 2. [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | Solved |
-| 3. [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | Solved |
+| 2. [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | Solved |
 
 [![](https://img.shields.io/badge/Back%20to%20top-%E2%86%A9-red)](#shortcuts)
