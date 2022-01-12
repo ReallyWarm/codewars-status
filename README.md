@@ -23,7 +23,7 @@
 | 4. [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c) | Solved |
 | 5. [Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e) | Solved |
 | 6. [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) | Solved |
-| 7. [Sort - one, three, two](https://www.codewars.com/kata/56f4ff45af5b1f8cd100067d) | Unsolved |
+| 7. [Sort - one, three, two](https://www.codewars.com/kata/56f4ff45af5b1f8cd100067d) | Solved |
 | 8. [Mod4 Regex](https://www.codewars.com/kata/54746b7ab2bc2868a0000acf) | Unsolved |
 
 [![](https://img.shields.io/badge/Back%20to%20top-%E2%86%A9-red)](#shortcuts)
