@@ -64,6 +64,7 @@
 | 9. [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | Solved |
 | 10. [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | Solved |
 | 11. [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6) | Solved |
+| 12. [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) | Solved |
 
 [![](https://img.shields.io/badge/Back%20to%20top-%E2%86%A9-red)](#shortcuts)
 
