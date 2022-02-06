@@ -8,12 +8,20 @@
 - [My Codewars Status](#my-codewars-status)
   - [Shortcuts](#shortcuts)
   - [Python](#python)
+    - [4 kyu](#4-kyu-competent)
     - [5 kyu](#5-kyu-novice)
     - [6 kyu](#6-kyu-novice)
     - [7 kyu](#7-kyu-beginner)
     - [8 kyu](#8-kyu-beginner)
 
 ## Python
+### 4 kyu (Competent)
+| Kata	| Status |
+|---------|---------|
+| 1. [Sudoku Solution Validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008) | Solved |
+
+[![](https://img.shields.io/badge/Back%20to%20top-%E2%86%A9-red)](#shortcuts)
+
 ### 5 kyu (Novice)
 | Kata	| Status |
 |---------|---------|
