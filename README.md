@@ -19,6 +19,7 @@
 | Kata	| Status |
 |---------|---------|
 | 1. [Sudoku Solution Validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008) | Solved |
+| 2. [Most frequently used words in a text](https://www.codewars.com/kata/51e056fe544cf36c410000fb) | Solved |
 
 [![](https://img.shields.io/badge/Back%20to%20top-%E2%86%A9-red)](#shortcuts)
 
